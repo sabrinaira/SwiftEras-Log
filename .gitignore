@@ -1,0 +1,28 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+.fseventsd
+.com.apple.timemachine.donotpresent
+
+# Linux
+*~
+.nfs*
+
+# VSCode
+.vscode/
+.history/
+
+# Log & Environment Variables
+*.log
+*.env
+.env.*
